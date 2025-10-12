@@ -1,14 +1,9 @@
-aDriv4
-Mr.KaitoX Bypass Shell
-FierzaXploit {Mini Shell }
-TrenggalekTeam
-Tryag File Manager
-ubhteam
-xichang1
-Mini Shell By Black_Shadow
-WHY MINI SHELL
-MINIShel
-dead1975
-CREATE RDP
-c99madshell
-deadcode1975
+    "<title>Shell",
+    "Shell by",
+    "<center>Shell",
+    "<font size=5>Shell",
+    "<font color=red>Shell",
+    "<font size=4>Shell",
+    "W4SP Shell",
+    "c99shell",
+    "r57shell",
