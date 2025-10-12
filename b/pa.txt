@@ -1,7 +1,7 @@
-    "shell.php"
-    "c99.php"
-    "r57.php"
-    "wso.php"
-    "cmd.php"
-    "config.php"
-    "admin.php"
+    shell.php
+    c99.php
+    r57.php
+    wso.php
+    cmd.php
+    config.php
+    admin.php
