@@ -67,13 +67,11 @@ VinzXploit
 <title>backdoor creator</title>
 ZeroSEC File Manager
 Yanz Webshell!
-| PHP 7.4.27 |
 <title>Success!:D</title>
 Little File Manager
 File Storage Artur W
 * Cylul007 Webshell</font>*
 Mini-FileManager
-||TINY SHELL ||
 <title>p0wny@shell:~#</title>
 <td>Uname</td>
 >+ New Dir</a>
@@ -94,7 +92,6 @@ drwxrwxr-x
 -rw-rw-r--
 drwx---r-x
 By FierzaXploit
-<title>H3K | File Manager</title>
 input type=submit name=submit value="Upload
 type="button">Upload File</button></a>
 <title>:: Ghost m1n1
