@@ -1,11 +1,11 @@
  "/",
-    "/images/",
-    "/uploads/",
-    "/files/",
-    "/backup/",
-    "/admin/",
-    "/css/",
-    "/js/",
-    "/tmp/",
-    "/shell/",
-    "/cgi-bin/",
+    "/images/"
+    "/uploads/"
+    "/files/"
+    "/backup/"
+    "/admin/"
+    "/css/"
+    "/js/"
+    "/tmp/"
+    "/shell/"
+    "/cgi-bin/"
