@@ -106,7 +106,6 @@ input type="password" name="fm_pwd" value="" placeholder="Password"
 PHP File Manager
 4Price 3.0
 n":"tmpls","d":"","s":true
-<title>Private Shell Mini</title>`)|| strings.Contains(
 <title>index R4</title>
 <title>Files in \/upload/</title>
 input type='submit' name='upload' value='upload
