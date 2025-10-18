@@ -1,8 +1,10 @@
-    Shell by
-    <center>Shell
-    <font size=5>Shell
-    <font color=red>Shell
-    <font size=4>Shell
-    W4SP Shell
-    c99shell
-    r57shell
+		"drwxrwxrwx",
+		"Uname:",
+		`id="_upl" value="Upload"`,
+		"drwxrwxr-x",
+		"-rw-rw-rw-",
+		"drwxrwxrwx",
+		`input type="file" name="fileToUpload" id="fileToUpload`,
+		"<h1>#p@@#</h1>",
+		`input type="submit" name="submit" value="Upload`,
+		"%PDF-0-1",
