@@ -1,7 +1,47 @@
-    shell.php
-    c99.php
-    r57.php
-    wso.php
-    cmd.php
-    config.php
-    admin.php
+wp-content/plugins/pwnd/pwnd.php
+wp-content/plugins/fix/up.php
+license.php
+wp-includes/js/crop/index.php
+wp-content/plugins/index.php
+wp-content/themes/index.php
+wp-admin/network/index.php
+shell.php
+autoload_classmap/function.php
+wp-login.php
+.well-known/worksec.php
+worksec.php
+wp-includes/js/tinymce/themes/inlite/
+bless.php
+admin.php
+edit.php
+class.php
+templates/beez/index.php
+wp-conflg.php
+wp-includes/Requests/index.php
+js/index.php
+wp-content/index.php
+wp-includes/wp-class.php
+wp.php
+wp-content/languages/themes/
+options.php
+moon.php
+wp-admin/options.php
+webdb.php
+wp-includes/Text/index.php
+images/index.php
+index.php
+class.api.php
+wp-includes/css/index.php
+default.php
+wp-content/themes/
+css/index.php
+wp-admin/about.php
+cgi-bin/about.php
+wp-includes/ID3/
+.well-known/acme-challenge/
+click.php
+class.api.php	
+wp-includes/IXR/index.php
+inputs.php
+admin/index.php
+wp-content/cache/index.php
