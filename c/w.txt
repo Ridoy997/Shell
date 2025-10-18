@@ -3,4 +3,3 @@
 "drwxrwxr-x",
 "-rw-rw-rw-",
 "drwxrwxrwx",
-"%PDF-0-1",
