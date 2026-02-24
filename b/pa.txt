@@ -1,516 +1,463 @@
-wp-content/themes/bltm/wp-login.php
-wp-content/updraft/plugins-old/updraftplus/vendor/team-updraft/
-admin.php
-admin.php?p=
-wp-content/plugins/hello-plus/classes/ehp-sarang.php
-404.php
-admin/
-hplfuns.php
-3PJcpMFsD8B.php
-wp-content/admin.php
-wp-content/plugins/pwnd/pwnd.php
-t.php
-s.php
-index.html
-wp-includes/blocks/code/
-user.php
-x.php
-wp-admin.php
-wp-admin/css/colors/modern/
-wp-includes/speculative8.php
-inputs.php
-wp-config-sample.php
-m.php
-bolt.php
-adminfuns.php
-wp-includes/js/dist
-wp.php
-wp-includes/css/
-about.php
-wp-includes/blocks/details/
-fm.php
-wp-includes/images/
-wp-content/
-ahax.php
-wp-admin/shell.php
-sf.php
-wp-includes/fonts/
-wp-admin/maint/
-wp-content/themes/
-item.php
-wp-includes/widgets/
-class.api.php
-wp-admin/network/cache/
-
-wp-includes/customize/wp-conflg.php
-assets/images/selam.php
-wp-content/plugins/revslider/includes/external/page/
-mah.php
-gel4y.php
-.well-known/
-edit.php
-wp-includes/SimplePie/wp-conflg.php
-wp-content/themes/twentytwentyfour/patterns/template-singl-portfolio.php
-ioxi-o.php
-wp-content/themes/twentytwentyfive/patterns/template-singl-portfolio.php
-.well-known/pki-validation/
-chosen.php
-wp-content/packed.php
-shell3.php
-znv3hcxz6mwjdz1jwxrxiCakc.php
-wp-admin/classwithtostring.php
-wp-includes/customize/autoload_classmap.php
-wp-admin/js/widgets/
-test.php
-about/function.php
-wp-content/plugins/aatdgetgdg/main.php
-wp-includes/js/mediaelement/
-wp-includes/blocks/pullquote/
-info.php
-simple.php
-wp-content/upgrade/
-function/function.php
-nrhogjyecktixbal0fnt5Cakc.php
-1.php
-wp-admin/includes/
-wp-content/languages/autoload_classmap.php
-wp-content/themes/admin.php
-wp-includes/sitemaps/
-worksec.php
-link.php
-wp-content/themes/chosen.php
-wp-content/plugins/hello.php
-themes.php
-wp-admin/css/colors/light/
-wp-content/updates.php
-wp-includes/Text/about.php
-wp-admin/js/
-wp-includes/Text/Diff/Engine/wp-good.php
-wp-content/themes/about.php
-a.php
-.well-known/gecko-litespeed.php
-wp-includes/blocks/social-links/
-wp-includes/widgets/chosen.php
-wp-includes/block-bindings/
-wordpress/wp-admin/maint/
-assets/images/
-wp-includes/SimplePie/about.php
-wp-content/uploads/2025/
-wp-admin/css/colors/ocean/
-file.php
-wp-domain.php
-wp-includes/blocks/paragraph/
-wp-content/buy.php
-wp-admin/css/colors/
-wp-content/plugins/shell/
-wp-includes/IXR/
-wp-includes/ID3/
-wp-includes/css/dist/
-wp-file.php
-wp-includes/sodium_compat/namespaced/Core/
-uk5pqv0wksbuaourleCakc.php
-wp-includes/block-bindings
-wp-includes/css/dist/components/
-wp-admin/css/colors/blue/
-wp-content/themes/twentytwentyfour/
-wp-content/themes/wp-blog.php
-goods.php
-wp-includes/
-wp-content/plugins/so-pinyin-slugs/inc/main_json.php
-wp-themes.php
-wp-includes/blocks/comment-content/
-upload/
-wp-includes/blocks/nextpage/
-filemanager.php
-abcd.php
-gecko-new.php
-wp-includes/js/imgareaselect/
-wp-admin/css/colors/sunrise/
-wp-content/languages/plugins/
-wp-includes/blocks/query-pagination/
-wp-includes/blocks/archives/
-wp-admin/admin-wolf.php
-wp-includes/rest-api/endpoints/
-wp-admin/js/widgets/admin.php
-wp-includes/assets/
-wp-confiq.php
-ma.php
-.well-known/acme-challenge/file.php
-wp-includes/images/media/
-comments/feed/
-assets/
-wp-good.php
-wp-includes/assets/k.php
-wp-includes/js/dist/
-wp-includes/blocks/freeform/
-wp-content/plugins/advanced-product-fields-for-woocommerce/db.php
-wp-includes/js/jcrop/Jcrop.php
-wp-includes/blocks/post-terms/
-ws.php
-wp-includes/Requests/about.php
-wp-includes/blocks/query-title/
-deepseek_d.php
-lock360.php
-wp-admin/
-wp-admin/css/
-wp-content/uploads/
-wp-includes/certificates/autoload_classmap.php
-wp-signin.php
-help.php
-wp-includes/Text/Diff/Engine/template-singl-portfolio.php
-wp-update.php
-wp-includes/blocks/separator/
-assets/css/
-wp-includes/blocks/video/
-wp-content/uploads/wpforms/
-wp-includes/Text/Diff/
-index/function.php
-click.php
-mah/function.php
-wp-admin/network/
-wp-content/themes/theme-check/main.php
-shell.php
-.tresh/
-wp-admin/images/
-xmlrpc.php
-wp-content/themes/news-portal/error.php
-wp-content/themes/twentytwenty/assets/fonts/inter/
-wp-admin/images/wp-conflg.php
-wp-admin/css/colors/midnight/
-wp-user.php
-wp-content/plugins/gv0eai61i0kwhxf2w28z/nrhogjyecktixbal0fnt5Cdefault.php
-wp-includes/css/dist/block-library/
-wp-content.php
-wp-content/wp-conflg.php
-wp-content/languages/themes/
-wp-content/plugins/
-wp-includes/assets/chosen.php
-options.php
-wp-content/themes/news-portal/fm.php
-wp-includes/theme-compat/
-wp-content/plugins/filester/assets/css/404.php
-wp-content/themes/404.php
-wp-includes/bk/
-wa/
-wp-includes/js/jcrop/
-admin/function.php
-system.php
-wp-content/about.php
-wp-includes/blocks/column/
-wp-includes/certificates/
-we.php
-wp-includes/blocks/calendar/
-autoload_classmap/function.php
-moon.php
-files.php
-wp-content/lock360.php
-radio.php
-new.php
-images/
-wp-admin/css/colors/coffee/
-wp-links-opml.php
-wp-includes/rest-api/fields/
-ab.php
-wp-content/wpvivid_uploads/wp-conflg.php
-222.php
-mini.php
-wp-includes/assets/autoload_classmap.php
-wp-admin/dofault.php
-wp-admin/wp.php
-wp-includes/PHPMailer/
-wp-includes/pomo/
-wp-includes/css/dist/commands/
-wp-content/uploads/2024/
-wp-content/admin-header.php
-wp-includes/images/wp-conflg.php
-wp-includes/sodium_compat/lib/
-buy.php
-bless.php
-wp-includes/blocks/tag-cloud/
-wp-admin/datate.php
-wp-content/themes/wp-conflg.php
-wp-includes/blocks/audio/
-wp-includes/block-supports/admin.php
-wp-includes/themes.php
-wp-content/edit-wolf.php
-as.php
-wp-content/uploads
-wp-content/uploads/elementor/
-wp-content/hplfuns.php
-wp-admin/autoload_classmap.php
-wp-includes/Requests/src/Auth/
-ALFA_DATA/alfacgiapi/
-2.php
-wp-content/uploads/wcdp-uploads/temp/xxc/stuff/wp-class.php
-wp-content/themes/twentytwentythree/templates/
-private/
-log.php
-system_log.php
-wp-includes/js/dist/vendor/about.php
-wp-includes/blocks/
-wp-admin/gettest.php
-dropdown.php
-wp-content/languages/
-wp-content/xp.php
-php.php
-wp-includes/Text/Diff/Engine/
-wp-includes/wp-conflg.php
-wp-includes/js/
-wp-admin/includes/autoload_classmap.php
-wp-includes/blocks/search/
-wp-content/plugins/pwnd/as.php
-wp-includes/wp.php
-about.php?p=
-wp-includes/js/dist/development/
-wp-includes/Requests/library/
-wp-admin/images/chosen.php
-wp-admin/file.php
-wp-content/plugins/elementor/includes/template-singl-portfolio.php
-wp-includes/blocks/comments/
-13.php
-classwithtostring.php
-wp-includes/blocks/group/
-wp-content/ws29.php
-css.php
-.well-known/acme-challenge/
-aa.php
-wp-includes/Text/
-wp-includes/rest-api/
-wp-admin/network/shel.php
-wp-wlx.php
-wp-content/updraft/emptydir/
-wp-content/themes/twentytwentytwo/assets/fonts/
-wp-content/themes/aounq/
-wp-includes/blocks/post-comments-form/
-wp-includes/blocks/navigation-submenu/
-wp-includes/css/dist/customize-widgets/
-wp-includes/js/dist/script-modules/block-library/file/
-wp-active.php
-wp-includes/blocks/image/
-wp-includes/blocks/post-content/
-wp-includes/blocks/categories/admin.php
-wp-includes/blocks/list-item/test.php
-wp-content/abb.php
-wp-admin/sql.php
-wp-includes/blocks/tag-cloud/wp-load.php
-wp-includes/pomo/includ.php
-wp-includes/widgets/class-wp-widget-xxx.php
-wp-includes/assets/script-modules-xxx.php
-wp-includes/rest-api/autoload_classmap.php
-wp-includes/blocks/categories/chosen.php
-wp-content/themes/celuapuestas-theme/inc/functions/frontend/g0znuk/upload.php
-wp-includes/js/tinymce/utils/ntucbd/doc.php
-wp-admin/about.php
-wp-content/database.php
-wp-admin/css/maintenance.php
-wp-admin/images/wp-ver.php
-wp-content/themes/twentytwentyfive/patterns/acxx.php
-wp-content/gettest.php
-wp-content/themes/twentysixteen/includez.php
-wp-content/themes/twentynineteen/sass/mixins/scss.php
-wp-content/themes/news-portal/user-install.php
-wp-includes/gettest.php
-wp-admin/maint/wp-conflg.php
-wp-content/plugins/eu-cookie-law/
-wp-content/plugins/wp-minibar/
-wp-content/plugins/hello-plus/classes/ehp-social-elf.php
-wp-content/000.php
-wp-admin/css/colors/ectoplasm/moon.php
-wp-includes/SimplePie/Cache/
-wp-includes/SimplePie/Decode/
-wp-content/themes/twentytwentyone/template-parts/
-wp-content/uploads/revslider/templates/brutal-menu/
-wp-content/uploads/revslider/templates/rockable-lineup-2/
-wp-includes/blocks/page-list/
-wp-includes/sodium_compat/src/Core/
-wp-content/plugins/wordpress-seo/src/plans/application/btn8pm/
-wp-content/plugins/template-singl-portfolio.php
-wp-includes/Requests/zczv.php
-wp-includes/Requests/autoload_classmap.php
-wp-content/themes/twentytwentythree/locks.php
-wp-content/themes/twentytwentyfour/locks.php
-vFWbf/wp-conflg.php
-wp-admin/css/colors/light/wxeagnaY.php
-wp-admin/maint/chosen.php
-wp-admin/maint/admin/no/panel/main_panel.php
-wp-content/plugins/akismet/views/cmd.php
-wp-content/themes/covr-wpcom/assets/fonts/manrope.php
-wp-content/themes/theme-check/theme-check.php
-wp-includes/blocks/group/about.php
-wp-includes/Text/Diff/Renderer/about.php
-wp-includes/css/dist/customize-widgets/about.php
-wp-content/plugins/wordpress-seo/admin/metabox/about.php
-wp-content/plugins/ubermenu/pro/updates/updatechecker/js/about.php
-wp-content/plugins/elementor/modules/notes/about.php
-wp-content/plugins/sitepress-multilingual-cms/classes/icl/about.php
-wp-content/plugins/advanced-custom-fields-pro/includes/admin/views/upgrade/about.php
-wp-content/plugins/contact-form-7/includes/submission.php
-wp-admin/css/colors/midnight/test2.php
-wp-content/themes/Divi/common/scripts/
-wp-content/themes/Divi/includes/builder/plugin-compat/styles/
-wp-content/themes/Divi/ai-app/
-wp-admin/network/cache/gfhfv.php
-wp-content/uploads/cpo_temp/services.php
-wp-admin/includes/gfhfv.php
-investor-relations/block-directory/
-google-feed/pki-validation/
-wp-includes/sodium_compat/chosen.php
-wp-content/plugins/carousel-slider/templates/loop/classwithtostring.php
-image/chosen.php
-wp-differ1.php
-wp-content/plugins/phpad/acp.php
-wp-content/plugins/phpadmin/autoload_classmap.php
-wp-content/settings/gfhfv.php
-wp-content/themes/akses.php
-wp-content/themes/twentytwentythree/gfhfv.php
-wp-content/plugins/sccrbel/
-wp-content/plugins/tilnzqc/
-wp-admin/zwso.php
-wp-includes/SimplePie/src/Decode/HTML/sitemaps.php
-wp-includes/mer_gagal.php
-wp-admin/uuj_gagal.php
-wp-admin/css/colors/lock.php
-wordpress/wp-includes/blocks/accordion/
-wp-includes/wp-mails.php
-wp-includes/sodium_compat/namespaced/Core/Curve25519/wp-cron.php
-wp-content/themes/news-portal/network.php
-wp-content/uploads/back.php
-wp-includes/class-wp-widget-table.php
-wp-includes/config.php
-wp-includes/js/tinymce/themes/about.php
-wp-includes/blocks/missing/about.php
-wp-content/themes/merah/includes/options-framework/about.php
-wp-content/themes/dlloduv/about.php
-wp-admin/css/colors/blue/wp-ait.php
-wp-admin/includes/class-wp-screen-function.php
-sx.php
-wp-content/plugins/wpvivid-backuprestore/error/
-wp-content/themes/twentytwentyfive/assets/PHPMailer/
-wp-content/themes/twentytwentythree/patterns/wp-d1h2k6v9z7.php
-wp-includes/blocks/post-terms/vx.php
-wp-includes/Requests/src/webdb.php
-s/wp-includes/blocks/columns/about.php
-s/wp-includes/blocks/accordion-item/about.php
-s/wp-includes/css/dist/commands/fonts/
-s/wp-includes/sodium_compat/namespaced/Core/html-api/
-wp-content/v3.php
-s/wp-content/mu-plugins/ID3/
-s/wp-content/uploads/rank-math/about.php
-s/wp-content/themes/kadence/assets/images/icons/smilies/
-s/wp-content/ai1wm-backups/block-patterns/
-s/wp-content/plugins/file52.php
-s/wp-content/litespeed/debug/maint/
-s/bk/wp-includes/PHPMailer/widgets/
-s/bk/wp-includes/fonts/maint/
-s/bk/wp-includes/block-patterns/upgrade/
-s/bk/wp-includes/l10n/colors/
-s/bk/wp-includes/html-api/PHPMailer/
-s/bk/wp-includes/theme-compat/input/
-s/bk/wp-admin/network/about.php
-s/bk/wp-admin/network/includes/
-s/bk/wp-admin/maint/mu-plugins/
-s/bk/wp-admin/maint/l10n/
-s/bk/wp-admin/css/colors/pomo/
-s/bk/wp-admin/css/colors/blue/network/
-s/bk/wp-admin/includes/media1.php
-s/wp-admin/network/icons/
-s/wp-admin/user/colors/
-wp-includes/rest-api/search/images/
-wp-includes/PHPMailer/widgets/
-wp-includes/customize/fonts/
-wp-includes/ID3/customize/
-wp-includes/widgets/woocommerce/
-wp-includes/block-bindings/block-supports/
-wp-content/uploads/ast-block-templates-json/search/
-wp-content/maintenance/assets/fonts/widgets/
-wp-content/maintenance/assets/network/
-wp-content/themes/twentytwentyfour/patterns/file.php
-wp-admin/maint/providers/
-wp-admin/images/block-bindings/
-wp-admin/network/colors/
-wp-admin/css/colors/PHPMailer/s
-wp-content/languages/plugins/admin.php
-wp-admin/zz.php
-wp-admin/includes/about.php
-wp-admin/wp-signin.php
-wp-admin/sx.php
-wp-includes/js/crop/about.php
-wp-includes/blocks/footnotes/about.php
-wp-includes/blocks/comment-edit-link/about.php
-wp-includes/blocks/loginout/about.php
-wp-includes/IXR/wp-conflg.php
-wp-includes/IXR/IXR/new.php
-wp-includes/rest-api/fields/about.php
-wp-includes/rest-api/search/search/about.php
-wp-content/themes/consultstreet/about.php
-wp-content/uploads/complianz/css/about.php
-wp-content/plugins/acucozo/file.php
-wp-content/plugins/query-monitor/collectors/about.php
-wp-content/plugins/x/wp-classs-editor.php
-wp-content/plugins/x/wp-fm.php
-wp-content/plugins/pixelyoursite/vendor/glenscott/about.php
-wp-content/plugins/mailpoet/vendor/composer/about.php
-wp-content/plugins/protect-uploads/languages/about.php
-wp-content/plugins/wp-file-manager/file.php
-wp-includes/theme-compat/images/
-wp-includes/fonts/vpi/
-wp-content/updraft/fonts/
-wp-content/wpvivid_uploads/Isolate/error/
-wp-admin/css/colors/coffee/Isolate/
-wp-admin/maint/includes/
-wp-admin/user/coffee/
-wp-content/plugins/pretty-link/app/wp-cron.php
-wp-content/webp-express/radio.php
-wp-content/webp-express/webp-images-bigger-than-source/providers/
-wp-includes/blocks/nextpage/wp-cron.php
-wp-includes/sodium_compat/namespaced/customize/
-wp-includes/images/smilies/theme-compat/
-wp-includes/theme-compat/network/
-wp-admin/network/about.php
-wp-admin/user/block-patterns/
-wp-admin/includes/images/
-wp-content/fonts/dancing-script/about.php
-wp-content/webp-express/webp-images/sitemap_index.xml/
-wp-content/themes/twentytwentyfive/patterns/assets/
-wp-includes/certificates/block-patterns/
-wp-includes/html-api/widgets/
-wp-includes/Text/Diff/Renderer/user/
-wp-includes/SimplePie/src/Content/Type/about.php
-wp-includes/pomo/about.php
-wp-admin/images/html-api/
-wp-admin/user/radio.php
-wp-content/themes/bbpress/mainhack.php
-wp-content/plugins/junkfood/mainhack.php
-wp-content/mu-plugins/about.php
-wp-content/plugins/elementor/core/frontend/render-modes/about.php
-wp-content/plugins/wordpress-seo/src/dashboard/application/search-rankings/about.php
-wp-includes/abilities-api/about.php
-wp-includes/js/jquery/ui/nsuebz/
-wp-includes/assets/000.php
-wp-content/themes/twentytwentyfour/patterns/zczv.php
-wp-content/drive.php
-wp-includes/l10n/chosen.php
-wp-includes/blocks/latest-comments/template-loader.php
-wp-includes/js/anskrit.php
-backoffice-Stopped/admin/assets/flags/4x3/
-backoffice-Stopped/management/assets/assets/images/
-assets/fonts/
-assets/images/about/
-assets/images/services/
-admin/assets/dist/img/weather/
-admin/uploads/fm.php
-revealability.php
-cgi-bin/
-management1/assets/assets/images/gallery/
-reception1/includes/tcpdf/examples/config/
-management/assets/assets/css/
-reception/includes/tcpdf/config/
-asf.php
-s/poppins/css.php
-wp-includes/block-bindings/rxzx.php
-wp-admin/file-manager.php
-wp-content/themes/radio.php
-wp-content/themes/ftde.php
-wp-includes/PHPMailer/autoload_classmap.php
-wp-includes/block-bindings/zczv.php
-wp-includes/SimplePie/rstsgd.php
+[
+        "inputs.php",
+        "file.php",
+        "wp-content/plugins/pwnd/pwnd.php",
+        "css/index.php",
+        "wp.php",
+        "admin.php",
+        "bless.php",
+        "wp-content/plugins/fix/up.php",
+        "ad.php",
+        "moderation.php",
+        "wp-conflg.php",
+        "chosen.php",
+        "alfa.php",
+        "about.php",
+        "wp-content/themes/classwithtostring.php",
+        "wp-content/plugins/core-plugin/include.php",
+        "themes.php",
+        "goods.php",
+        "404.php",
+        "load.php",
+        "wp-content/plugins/index.php",
+        "wp-content/index.php",
+        "jindex.php",
+        "system.php",
+        "av.php",
+        "wso.php",
+        "classwithtostring.php",
+        "1.php",
+        "wp-includes/block-bindings",
+        "wp-content/classwithtostring.php",
+        "wp-admin/css/colors/blue",
+        "wp-content/plugins/erinyani/default.php",
+        "adminfuns.php",
+        "wp-admin/network/index.php",
+        "autoload_classmap/function.php",
+        "wp-includes/Text/index.php",
+        "leafmailer.php",
+        "leaf.php",
+        "mah/function.php",
+        "wp-content/admin.php",
+        "wp-content/themes/sketch/404.php",
+        "ioxi-o.php",
+        "wp-admin/admin-wolf.php",
+        "class.php",
+        "fm.php",
+        "wp-content/languages/index.php",
+        "s.php",
+        "wp-links.php",
+        "uploaded_script.php",
+        "edit.php",
+        "x.php",
+        "wp-includes/css/index.php",
+        "license.php",
+        "wp-content/plugins/mainhosting/default.php",
+        "wp-admin/js/privacy-tools.min.php",
+        "wp-includes/theme-compat",
+        "wp-content/plugins/WordPressCore/include.php",
+        "wp-admin/includes/admin-ajax.php",
+        "log.php",
+        "wp-admin/maint/index.php",
+        "wp-content/plugins/about.php",
+        "wp-includes/IXR/index.php",
+        "wp-content/plugins/pwnd/block-support.php",
+        "wp-includes/Text/Diff/index.php",
+        "index.php",
+        "wp-includes/assets/index.php",
+        "a.php",
+        "403.php",
+        "index2.php",
+        "wp-admin/js/widgets/index.php",
+        "wp-admin/css/colors/index.php",
+        "error.php",
+        "wp-includes/certificates/index.php",
+        "inc.php",
+        "as.php",
+        "wp-content/themes/index.php",
+        "wp-content/uploads/index.php",
+        "system_log.php",
+        "mah.php",
+        "ws.php",
+        "wp-signin.php",
+        "worksec.php",
+        "gg.php",
+        "item.php",
+        "function/function.php",
+        "wp-content/about.php",
+        "index/function.php",
+        "images/index.php",
+        "wp-includes/about.php",
+        "wp-content/themes/twentytwenty/404.php",
+        "sim.php",
+        "buy.php",
+        "ini.php",
+        "wp-content/themes/twentyfive/include.php",
+        "wp-admin/js/index.php",
+        "options.php",
+        "wp-admin/classwithtostring.php",
+        "admin/function.php",
+        "k.php",
+        "core.php",
+        "mail.php",
+        "wp-admin/js/wp-conflg.php",
+        "wp-login.php",
+        "wp-content/themes/news-portal/error.php",
+        "wp-includes/images",
+        "wp-content/themes/about.php",
+        "shell.php",
+        "wp-content/themes/twentytwentyfour",
+        "xml.php",
+        "css.php",
+        "images/class-config.php",
+        "wp-includes/blocks/calendar/index.php",
+        "we.php",
+        "wp-includes/class-json-ajax-session.php",
+        "xmlrpc.php",
+        "wp-includes/fonts/index.php",
+        "wp-includes/ID3/index.php",
+        "g.php",
+        "wp-content/themes/bltm/wp-login.php",
+        "wp-mail.php",
+        "wp-content.php",
+        "default.php",
+        ".well-known/acme-challenge",
+        "wp-content/plugins/hello.php",
+        "wp-includes/SimplePie/index.php",
+        "back.php",
+        "wp-includes/Text/wp-login.php",
+        "bk/index.php",
+        "wp-content/themes/admin.php",
+        "wp-admin/includes/index.php",
+        "wp-admin/wp-conflg.php",
+        "wp-conf.php",
+        "wp-includes/html-api",
+        "wp-includes/PHPMailer",
+        "wp-admin/product.php",
+        "content.php",
+        "leafmailer2.8.php",
+        "flower.php",
+        "modules/mod_simplefileuploadv1.3/elements/filemanager.php",
+        "wsa.php",
+        "wp-content/languages/themes",
+        "wp-includes/block-patterns/index.php",
+        "f35.php",
+        "m.php",
+        "wp-admin/maint/about.php",
+        "wp-l0gin.php",
+        "wp-config-sample.php",
+        "uploads/index.php",
+        "simple.php",
+        "version.php",
+        "wp-includes/rest-api/index.php",
+        "wp-admin/css/colors/ectoplasm",
+        "wp-includes/sitemaps",
+        "wp-includes/Requests/about.php",
+        "wp-includes/images/about.php",
+        "wp-admin/images/wp-login.php",
+        "wp-includes/blocks/archives",
+        "wp-content/uploads/wp.php",
+        "jp.php",
+        "wp-content/autoload_classmap.php",
+        "autoload_classmap.php",
+        "config.php",
+        "wp-content/file.php",
+        "wp-content/radio.php",
+        "files/home.php",
+        "wp-includes/wp-conflg.php",
+        "wp-includes/ID3/about.php",
+        "zasf",
+        "readme.php",
+        "assets",
+        "wp-includes/js/jcrop/Jcrop.php",
+        "js/index.php",
+        "wp-includes/customize/about.php",
+        "wp-includes/widgets/include.php",
+        "ms-themes.php",
+        "wp-info.php",
+        "wp-includes/certificates/about.php",
+        "wp-admin/images/index.php",
+        "wp-includes/rest-api/about.php",
+        ".well-known",
+        "wp-admin/function.php",
+        "wp-includes/Requests/library/index.php",
+        "wp-includes/autoload_classmap.php",
+        "wp-admin/css/wp-login.php",
+        "wp-includes/wp-login.php",
+        "wp-content/plugins/revslider/includes/external/page/index.php",
+        "wp-includes/widgets",
+        "7b3658dfc7.php",
+        "wp-file.php",
+        "about/function.php",
+        "wp-includes/themes.php",
+        "wp-content/plugins/admin.php",
+        "ss.php",
+        "byp.php",
+        "wp-includes/js/tinymce/utils/index.php",
+        "wp-content/upgrade",
+        "wp-includes/admin.php",
+        "wp-admin/css/colors/midnight",
+        "wp-includes/js/tinymce/themes/inlite",
+        "13.php",
+        "db.php",
+        "sts.php",
+        "wp-content/uploads/about.php",
+        "f.php",
+        "wp-content/plugins/WordPressCore/index.php",
+        "wp-includes/css/dist/components/index.php",
+        "wp-includes/blocks/button/index.php",
+        ".well-known/pki-validation/index.php",
+        "wp-includes/customize/index.php",
+        "filemanager.php",
+        "wp-includes/index.php",
+        "wp-includes/js/dist",
+        "wp-content/plugins/wp-file-manager/file_folder_manager.php",
+        "plugins.php",
+        "wp-admin/css/index.php",
+        "wp-content/themes/404.php",
+        "wp-Owl.php",
+        "wp-includes/Requests/index.php",
+        "lock360.php",
+        "wp-includes/block-supports/index.php",
+        "2.php",
+        "cc.php",
+        "wp-content/cong.php",
+        "wp-includes/item.php",
+        "wp-includes/certificates/wp-conflg.php",
+        "wp-includes/js/codemirror/index.php",
+        "wp-content/plugins/phpad/as.php",
+        "wp-admin/css/colors/sunrise/index.php",
+        "b.php",
+        "dropdown.php",
+        "elp.php",
+        "wp-includes/css/dist",
+        "chosen/function.php",
+        "ajax/xl2024.php",
+        "wp-content/uploads/autoload_classmap.php",
+        "wp-content/plugins/linkpreview",
+        "wp-content/upgrade/about.php",
+        "wp-content/themes/pridmag/db.php",
+        "wp-admin/options.php",
+        "install.php",
+        "wp-content/uploads",
+        ".well-known/admin.php",
+        "wp-includes/blocks/about.php",
+        "wp-admin/includes/wp-login.php",
+        "wander.php",
+        "wp-content/cache/index.php",
+        "wp-signup.php",
+        "web.php",
+        "wp-admin/user/index.php",
+        "wp-includes/rest-api/endpoints",
+        "text.php",
+        "style.php",
+        "zwso.php",
+        "wp-includes/blocks",
+        "cong.php",
+        "wp-header.php",
+        "wp-includes/pomo/index.php",
+        "wp-content/plugins/dummyyummy/wp-signup.php",
+        "css",
+        "wp-includes/interactivity-api",
+        "wp-admin/buy.php",
+        "admin/index.php",
+        "new.php",
+        "mini.php",
+        "wp-admin/about.php",
+        "update/function.php",
+        "files",
+        "wp-includes/sitemaps/about.php",
+        "wp-includes/js/crop/index.php",
+        "wp-admin/maint/wp-login.php",
+        "wp-content/packed.php",
+        "update/g.php",
+        "wp-admin/images/wp-conflg.php",
+        "bypass.php",
+        "gm.php",
+        "media",
+        "gecko.php",
+        "wp-includes/js",
+        "v.php",
+        "wp-includes/images/smilies/index.php",
+        "wp-admin/js/about.php",
+        "function.php",
+        "wp-admin/css/admin.php",
+        "wp-includes/SimplePie/about.php",
+        "click.php",
+        "copypaths.php",
+        "wp-includes/images/media",
+        "wp-content/languages/about.php",
+        "radio.php",
+        ".well-known/acme-challenge/admin.php",
+        "wp-trackback.php",
+        "dz.php",
+        "cgi-bin/index.php",
+        "admin/upload/css.php",
+        "files.php",
+        "update/f35.php",
+        "templates/beez3/jsstrings.php",
+        "wp-admin/user/about.php",
+        "doc.php",
+        "wp-admin/css/colors/coffee/index.php",
+        "wp-content/plugins/classic-editor/wp-login.php",
+        "wp-admin/includes/about.php",
+        "wp-admin/images/admin.php",
+        "wp-admin/js/chosen.php",
+        "aa.php",
+        "as/function.php",
+        "wp-content/themes/twentytwentytwo/index.php",
+        "wp-includes/assets/about.php",
+        "moon.php",
+        "class.api.php",
+        "wp-activate.php",
+        "wp-includes/wp-class.php",
+        "wp-includes/pomo/wp-login.php",
+        "wp-content/hehe.php",
+        "wp-includes/css/about.php",
+        "wp-admin/css/about.php",
+        "wp-content/plugins/wp-theme-editor/include.php",
+        "wp-includes/sodium_compat/lib",
+        "504.php",
+        "plugin.php",
+        "87.php",
+        "contact.php",
+        "he.php",
+        "wordpress/BypassBest.php",
+        "tiny.php",
+        "wp-content/themes",
+        "images/about.php",
+        "post.php",
+        "wp-includes/Text/Diff/Engine",
+        "defaults.php",
+        "epinyins.php",
+        "ee.php",
+        "wp-content/plugins/wp-conflg.php",
+        "yasnu.php",
+        "hehe.php",
+        "ajk.php",
+        "wp-content/plugins/simple/simple.php",
+        "wp-content/languages/wp-login.php",
+        "wp-includes/product.php",
+        "makeasmtp.php",
+        "wp-includes/IXR/wp-login.php",
+        "wp-admin/upgrade.php",
+        "wp-includes/Text/chosen.php",
+        "wp-admin/install.php",
+        "cgi-bin/about.php",
+        "wp-content/plugins/Core-EconX/up.php",
+        "layout.php",
+        "Coldsellers.php",
+        "wp-includes/images/media/index.php",
+        "xc.php",
+        "link.php",
+        "wp-admin/wp-login.php",
+        "wp-admin/maint/file.php",
+        "wp-includes/rest-api/search",
+        "wp-includes/IXR/about.php",
+        "wp-content/plugins/ioxi/ioxi/dropdown.php",
+        "7.php",
+        "wp-includes/Text/wp-conflg.php",
+        "wp-includes/fonts/wp-login.php",
+        "man.php7",
+        "wp-includes/Text/Diff",
+        "fie.php",
+        "ab.php",
+        "wp-includes/IXR",
+        "customize.php",
+        "wp-includes/fonts/about.php",
+        ".well-known/acme-challenge/about.php",
+        "menu.php",
+        "wp-admin/includes/nav.php",
+        "css/admin.php",
+        ".tmb/wp-login.php",
+        "wp-includes/Text/Diff/Renderer",
+        "w.php",
+        "hi.php",
+        "css/about.php",
+        "manager.php",
+        "ge.php",
+        "users.php",
+        "webdb.php",
+        "nope.php",
+        ".well-known/index.php",
+        "wp-includes/rest-api/fields/index.php",
+        "xleet.php",
+        "wp-admin/images/about.php",
+        "wp-content/plugins/erinyani",
+        "wp-admin/autoload_classmap.php",
+        "lock.php",
+        "wp-includes/ID3",
+        "tinyfilemanager.php",
+        "shell20211028.php",
+        "wp-includes/css",
+        "wp-admin",
+        "sbryl.php",
+        "NewFile.php",
+        "file2.php",
+        "w1px.php",
+        "baxa1.php7",
+        "classsmtps.php",
+        "aresk.php",
+        "file5.php",
+        "mari.php",
+        "wp-admin/admin.php",
+        "xman.php",
+        "assets/css",
+        "zex.php",
+        "contact/wp-content/plugins/pwnd/pwnd.php",
+        "wp-content/plugins/seoplugins/db.php",
+        "user.php",
+        "files/?dir=",
+        "c.php",
+        "wp-2019.php",
+        "wp-includes/images/wp-login.php",
+        "simple/function.php",
+        "wp-content/plugins/linkpreview/db.php",
+        ".well-known/acme-challenge/index.php",
+        "wp-includes/js/tinymce/utils",
+        "wp-content/themes/pridmag/404.php",
+        "public/hi.php",
+        "subs/pics/wp-content/plugins/pwnd/pwnd.php",
+        "login.php",
+        "wp-content/fucku.php",
+        ".well-known/pki-validation/",
+        "wp-includes/block-bindings/index.php",
+        "files/index.php",
+        "wp-blog.php",
+        "wp-admin.php",
+        "ans.php",
+        "qfunctions.php",
+        "upload.php",
+        ".well-known/worksec.php",
+        "wp-content/plugins/fix/as.php",
+        "wp-content/plugins/tolly-t/hello.php",
+        "wp-content/",
+        "wp-content/themes/alera/alpha.php",
+        "wp-includes/mah.php",
+        "wp-content/BypassBest.php",
+        "bak.php",
+        "wp-content",
+        "wp-includes/certificates",
+        "wp-conf.phps",
+        "wp-content/uploads/wpr-addons/forms/b1ack.php",
+        "wp-content/themes/seotheme/mar.php",
+        "site/buy.php",
+        "wp-configs.php",
+        "wp-admin/js/widgets",
+        "wp-includes/css/dist/index.php",
+        "wp-includes/style-engine/about.php",
+        "wp-content/item.php",
+        "wp-includes/html-api/index.php",
+        "wp-set.php",
+        "wp-admin/css/colors/1.php",
+        "cgi-bin/wp-login.php",
+        "wp-content/uploads/2024/index.php",
+        "wp-includes/Text/about.php",
+        "v2.php",
+        "Ova-Simple.php",
+        "budmachine/web/s.php",
+        "wp-admin/maint",
+        "wp-includes/block-patterns",
+        "wp-content/themes/digital-download/new.php",
+        "xx.php"
+    ]
