@@ -1,5 +1,0 @@
-"drwxrwxrwx",
-"Uname:",
-"drwxrwxr-x",
-"-rw-rw-rw-",
-"drwxrwxrwx",
